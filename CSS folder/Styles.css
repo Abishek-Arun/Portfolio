@@ -1,0 +1,172 @@
+.Top-container{
+    background-color: #e3fdfd;
+    padding-top: 13em;
+    position: relative;
+    height: 43.75em;
+}
+body {
+  text-align: center;
+  margin: 0;
+  line-height: 40px;
+}
+h1{
+  margin: 0;
+  text-decoration: underline;
+}
+.mountain{
+  height: 55%;
+  width: 65%;
+  position: absolute;
+  bottom: 0%;
+  left: 18%;
+  text-align: center;
+
+}
+.cloud-1{
+ position:absolute;
+ right: 380px;
+ top: 80px;
+}
+.cloud-2{
+  position: absolute;
+  left: 350px;
+  top: 400px;
+  
+}
+.name{
+  font-family: 'Sacramento';
+  font-size: 400%;
+  color: #71c9ce;
+  text-decoration: none;
+}
+.web{
+  padding-bottom: 0;
+  font-family: 'Montserrat';
+  font-size: 150%;
+  color: #71c9ce;
+  
+}
+.middle-container{
+  position: relative;
+  top: 85%;
+  background-color: #f6fcfc;
+  height: 230%;
+  margin-bottom: 0%;
+  margin-top: -2%;
+  padding-bottom: 16%;
+}
+.bottom-container{
+  position: relative;
+  top: 23%;
+  height: 7%;
+  background-color: #71c9ce;
+  text-align: center;
+ 
+}
+.Messi{
+  height: 200px;
+  float: left;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.comp{
+  height: 200px;
+  float: right;
+  padding-left: 5%;
+}
+.logo{
+  height: 300px;
+}
+.skill-row{
+  position: absolute;
+  top: 800px;
+  text-align: left;
+  padding-top: 20%;
+  padding-right: 10%;
+  padding-left: 7.8%;
+ 
+}
+.contact-me{
+  position: absolute;
+  top: 1200px;
+  padding-bottom: 100px;
+  padding-top: 20%;
+  padding-right: 20%;
+  padding-left: 35.7%;
+}
+.favourite{
+  text-align: left;
+  padding-top: 7%;
+  padding-right: 10%;
+  padding-left: 3.1%;
+}
+.skills{
+  padding-top: 50px;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  padding-top: 40px;
+}
+h2{
+  font-family: 'Montserrat';
+  color: #71c9ce;
+  text-decoration: underline;
+}
+p{
+  font-family: 'Merriweather',monospace;
+  word-spacing: 5px;
+  color: gray;
+}
+h3{
+  font-family: 'Montserrat';
+  color: #71c9ce;
+  text-decoration: underline;
+
+}
+.line{
+  position: relative;
+  margin-top: 22%;
+  padding-top: 14%;
+  border-bottom: 40%;
+  border-left: 40%;
+  border-right: 40%;
+  
+}
+hr{
+  border-style: dotted;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  height: 5px;
+  width: 5%;
+  border-width: 7px;
+  color: #b0c2c5d8;
+  border-bottom: 20%;
+}
+.profile{
+  padding-left: 20%;
+  padding-right: 20%;
+}
